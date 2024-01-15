@@ -1,2 +1,3 @@
 # MysticalSpace
- Minecraft Server stuff, so I don't forget.
+IP: play.dqsss.dev
+[Supports most java versions]
